@@ -1,30 +1,22 @@
-# Hello, I'm [Logan] 
-## Aspiring Software Developer | Computer Science Student
+# Project Title - [CIS 041]
 
-I'm currently studying Computer Science at [SJCC], 
-focusing on full-stack development and cloud computing. 
-I'm passionate about creating efficient, user-friendly 
-applications and contributing to open-source projects.
+## Overview
+This is a project I worked on as part of [CIS 041]. The goal was to [create a well organized GitHub Account].
 
-### 🔭 Current Projects
-- Building a weather tracking application using React and Node.js
-- Contributing to open-source documentation projects
-- Developing a student resource management system
+## Problem
+[After making the initial account, organizing it was a hassel]
 
-### 🌱 I'm currently learning
-- Advanced JavaScript concepts
-- Cloud computing fundamentals
-- Docker containerization
+## Solution
+[I did some research on what I could do to easily complete the tasks assigned]
 
-### 💻 Technical Skills
-- Languages: Python, Java, JavaScript
-- Web: HTML5, CSS3, React
-- Tools: Git, VS Code, Docker
+## Technologies Used
+- Python
+- Flask
 
-### 📫 How to reach me
-- LinkedIn: [http://www.linkedin.com/in/logan-k-177093342]
-- Email: jk94303@student.musd.org
-- Portfolio: [Your website if available]
+## How to Run Locally
+1. Clone this repository: `git clone https://github.com/yourusername/course-project.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the app: `python app.py`
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+## Lessons Learned
+- [I learned how to make a well organized repository]
